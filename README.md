@@ -1,2 +1,2 @@
 # java
-javascript develpoment
+javascript develpomen
