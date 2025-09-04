@@ -1,2 +1,4 @@
 # java
-javascript develpomen
+javascript develpoment 
+git init 
+git commit
